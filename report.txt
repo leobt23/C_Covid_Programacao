@@ -1,0 +1,5 @@
+
+Doentes: nan
+Imunes: nan
+Saudaveis: nan
+Nao infetados: nan
